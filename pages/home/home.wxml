@@ -1,0 +1,4 @@
+<!--pages/home/home.wxml-->
+<text class="title">2b宫梦来到了这个世界，故事开始了.....</text>
+<button size="mini">按钮</button>
+<!-- <image src="C:\Users\Public\Pictures\Sample Pictures\沙漠.jpg"></image> -->
